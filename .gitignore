@@ -25,3 +25,5 @@ dist-ssr
 
 assets
 src/data/history.json
+public/favicon2.ico
+public/origin.jpg
