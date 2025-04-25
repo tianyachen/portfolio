@@ -26,5 +26,13 @@
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Google Cloud",
+    "imageSrc": "skills/GoogleCloud.png"
+  },
+  {
+    "title": "Kubernetes",
+    "imageSrc": "skills/kubernetes.png"
   }
 ]
