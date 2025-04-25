@@ -24,6 +24,7 @@ dist-ssr
 *.sw?
 
 assets
+src/assets
 src/data/history.json
 public/favicon2.ico
 public/origin.jpg
