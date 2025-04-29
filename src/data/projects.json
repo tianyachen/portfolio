@@ -4,8 +4,8 @@
     "imageSrc": "projects/books.gif",
     "description": "This is the web book shelf for my reading collections with 3d animation.",
     "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "3d-book-animation-shelf.netlify.app",
+    "source": "https://github.com/tianyachen/book-animation"
   },
   {
     "title": "Project B",
