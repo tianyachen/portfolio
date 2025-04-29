@@ -1,4 +1,4 @@
-const imageModules = import.meta.glob("./assets/**/*.{png,jpg,jpeg,svg}", {
+const imageModules = import.meta.glob("./assets/**/*.{png,jpg,jpeg,svg,gif}", {
   eager: true,
   query: "?url",
   import: "default",
