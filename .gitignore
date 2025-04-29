@@ -23,8 +23,8 @@ dist-ssr
 *.sln
 *.sw?
 
-assets
-src/assets
+# assets
+# src/assets
 src/data/history.json
 public/favicon2.ico
 public/origin.jpg
