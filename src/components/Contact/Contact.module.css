@@ -59,6 +59,10 @@
   }
 
   .links {
-    align-items: center;
+    align-items: left;
+  }
+
+  .link a {
+    font-size: 23px;
   }
 }
