@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { initGA, logPageView } from "./analytics";
+import { initGA, logPageView, logEvent } from "./analytics";
 import { useLocation } from "react-router-dom";
 import styles from "./App.module.css";
 import Navbar from "./components/Navbar/Navbar";
@@ -19,6 +19,8 @@ const App = () => {
   useEffect(() => {
     logPageView(location.pathname + location.search);
   }, [location]);
+
+  // logEvent("button_click", "User Interaction", "Contact Us Button", 1);
 
   return (
     <div className={styles.App}>
