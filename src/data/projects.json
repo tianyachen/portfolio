@@ -3,17 +3,17 @@
     "title": "3D Book Animation",
     "imageSrc": "projects/books.gif",
     "description": "This is the web book shelf for my reading collections with 3d animation.",
-    "skills": ["React", "Express", "Node"],
+    "skills": ["React", "Node", "Tailwind", "Vite"],
     "demo": "https://3d-book-animation-shelf.netlify.app",
     "source": "https://github.com/tianyachen/book-animation"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "YouTube-Clone",
+    "imageSrc": "projects/youtube-clone.png",
+    "description": "This webpage is a perfect html and css clone of the popular youtube page.",
+    "skills": ["HTML", "CSS", "Figma"],
+    "demo": "https://youtube-clone-htmlcss.netlify.app/",
+    "source": "https://github.com/tianyachen/html-css-youtube"
   },
   {
     "title": "Project C",
