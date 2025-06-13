@@ -16,11 +16,11 @@
     "source": "https://github.com/tianyachen/html-css-youtube"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Chess-Game",
+    "imageSrc": "projects/chess-game.png",
+    "description": "This is a web chess game with both pvp and pvc modes.",
+    "skills": ["Angular", "Node", "TypeScript", "Stockfish API"],
+    "demo": "https://chess-game-angular.netlify.app/",
+    "source": "https://github.com/tianyachen/chess-game"
   }
 ]
