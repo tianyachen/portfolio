@@ -1,11 +1,12 @@
 [
   {
     "title": "Intelligent Generative AI Chatbot & Knowledge Base",
+    "link": "https://tianyachatbot.pythonanywhere.com/",
     "introduction": "An enterprise-grade, conversational agent engineered with Retrieval-Augmented Generation (RAG) to deliver context-aware, secure, and accurate responses.",
     "description": "This technical artifact outlines a production-ready chatbot architecture integrating natural language understanding, real-time semantic search, dynamic context window sizing, and system guardrails for multi-tenant deployments.",
     "objective": "To architect an autonomous virtual assistant that successfully answers complex domain-specific user inquiries without hallucinations or data leakage.",
     "process": "Mapped hierarchical conversational flows, implemented semantic text chunking algorithms, developed an efficient vector search embedding pipeline, and configured robust system prompt guidelines to enforce safety boundaries.",
-    "tools": ["Gemini API", "Node.js", "Express", "Pinecone Vector DB", "LangChain", "TypeScript"],
+    "tools": ["Gemini API", "Pythonanywhere", "HTML", "JavaScript", "CSS", "Python", "Flask"],
     "valueProposition": "Demonstrates my advanced capability in implementing server-side Generative AI SDKs, managing highly efficient vector databases, and configuring safe agent environments.",
     "uniqueValue": "Achieves highly relevant, domain-specific chat grounding by dynamically searching external vector stores and injecting localized context directly into the model context window.",
     "relevance": "Highly critical for modern software roles focusing on AI integration, automated customer intelligence, scalable data engineering, and modern web application development.",

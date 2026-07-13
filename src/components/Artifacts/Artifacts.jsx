@@ -32,7 +32,7 @@ const Artifacts = () => {
               <div className={styles.cardHeader}>
                 <div className={styles.titleWrapper}>
                   <a
-                    href="https://tianyachatbot.pythonanywhere.com/"
+                    href={artifact.link}
                     target="_blank"
                     rel="noopener noreferrer"
                     className={styles.artifactTitleLink}
