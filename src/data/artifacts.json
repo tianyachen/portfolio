@@ -11,5 +11,18 @@
     "uniqueValue": "Achieves highly relevant, domain-specific chat grounding by dynamically searching external vector stores and injecting localized context directly into the model context window.",
     "relevance": "Highly critical for modern software roles focusing on AI integration, automated customer intelligence, scalable data engineering, and modern web application development.",
     "references": "Google Cloud Generative AI System Design Patterns, LangChain Retrieval-Augmented Generation Architecture Guide"
+  },
+  {
+    "title": "Timeline of Artificial Intelligence Milestones",
+    "link": "src/assets/artifacts/ai_history_timeline.jpg",
+    "introduction": "A historically accurate, highly detailed chronological roadmap detailing the structural evolution and key breakthroughs of Artificial Intelligence.",
+    "description": "This educational design artifact maps the fundamental epochs of AI history—from Alan Turing's conceptual foundations to the modern deep learning paradigm and generative model scaling era.",
+    "objective": "To synthesize the complex, multi-decade history of machine intelligence into an intuitive, accessible, and high-fidelity chronological visual guide.",
+    "process": "Researched historical AI breakthroughs, selected key paradigm-shifting turning points (the Turing Test, Dartmouth, AI Winters, AlexNet, Transformers, and ChatGPT), categorized epochs, and mapped their modern systemic impact.",
+    "tools": ["Figma", "Adobe Illustrator", "HTML5", "CSS Grid", "React", "Tailwind CSS"],
+    "valueProposition": "Demonstrates strong historical comprehension of AI system design evolution, user interface engineering, responsive design layout practices, and content hierarchy curation.",
+    "uniqueValue": "Synthesizes major academic and industry milestones into a single, clean, cohesive visual timeline with balanced negative space and rich context.",
+    "relevance": "Highly relevant for engineering roles requiring strong visual communication, educational interface design, content structuring, and historical context of deep learning.",
+    "references": "The Quest for Artificial Intelligence (Nils J. Nilsson), Computing Machinery and Intelligence (A.M. Turing)"
   }
 ]
